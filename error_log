@@ -1,0 +1,1 @@
+[28-May-2022 10:00:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/factcom/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
