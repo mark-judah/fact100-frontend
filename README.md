@@ -37,7 +37,7 @@
 <ol>
   <li>Clone the Fact100 frontend repository:</li>
   <pre><code>
-  git clone https://github.com/your-username/fact100-frontend.git
+  git clone https://github.com/mark-jk/fact100-frontend.git
   </code></pre>
 
   <li>Navigate to the project directory:</li>
